@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>webmagic-core</artifactId>
+    <artifactId>mxj-webmagic-core</artifactId>
 
     <dependencies>
         <dependency>
