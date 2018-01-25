@@ -104,7 +104,7 @@ public class Spider implements Runnable, Task {
 
     private final AtomicLong pageCount = new AtomicLong(0);
 
-    private Date startTime;
+    protected Date startTime;
 
     private int emptySleepTime = 30000;
 
